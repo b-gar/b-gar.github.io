@@ -110,6 +110,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   line-height: 1;
   margin-right: 8px;
+  border: 2px solid #18d26e;
   border-radius: 50%;
   width: 40px;
   height: 40px;
